@@ -1,0 +1,28 @@
+[
+  {
+    "userId": "903904uu",
+    "products": [
+      {
+        "productId": "df8080",
+        "amount": 3
+      },
+      {
+        "productId": "832018",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "userId": "903904uu",
+    "products": [
+      {
+        "productId": "df8080",
+        "amount": 3
+      },
+      {
+        "productId": "832018",
+        "amount": 3
+      }
+    ]
+  }
+]
